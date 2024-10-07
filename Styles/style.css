@@ -2,3 +2,21 @@
     margin: 0;
     padding: 0;
 }
+.Slider{
+    display: block;
+    height: 298px;
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+}
+.Slider li{
+    list-style: none;
+    position: absolute;
+}
+.Slider img{
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    vertical-align: top;
+}
